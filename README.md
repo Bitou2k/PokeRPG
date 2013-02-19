@@ -1,4 +1,4 @@
-PokeRPG - Pokémon Massively Multiplayer RPG
+PokeRPG - Pokémon Massively Multiplayer Online RPG
 ===================================
 PokeRPG is a project done in HTML5 using Canvas2D. It is based on the Pokémon games for GameBoy Advance with multiplayer support. Soon the first Preview of this great game that will be a success.
 
